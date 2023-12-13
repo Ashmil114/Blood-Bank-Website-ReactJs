@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  margin: 4px;
+}
+
+.App {
+    /* Keeps the horizontal scrollbar hidden */
+    overflow-x: hidden;
+  }
+  
+  .App {
+    /* Keeps the vertical scrollbar hidden */
+    overflow-y: hidden;
+  }
+  
+  .App {
+    /* Keeps both the horizontal and vertical 
+       scrollbars hidden */
+    overflow: hidden;
+  }
