@@ -1,5 +1,6 @@
 # Blood Bank Website (ReactJS)
 
+
 This is a Blood Bank Website built using ReactJS. The project aims to provide a user-friendly platform for managing blood donation activities and connecting donors with those in need.
 <!-- ![Image_Name](link) -->
 ## Getting Started
@@ -36,3 +37,6 @@ npm run dev
 ```
 ## Backend API
 This project relies on a Django Rest API for the backend. Check out the repository for the backend API [here](https://github.com/Ashmil114/Blood-Bank-Website-Django-Rest-API).
+
+## Screen Shot
+![alt text](https://github.com/Ashmil114/Blood-Bank-Website-ReactJs/blob/main/Screenshots/home.jpeg?raw=true)
